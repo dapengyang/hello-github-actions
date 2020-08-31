@@ -1,5 +1,24 @@
-## Welcome to "Hello World" with GitHub Actions
+# hello-world
 
-This course will walk you through writing your first action and using it with a workflow file. 
+## Project setup
+```
+npm install
+```
 
-**Ready to get started? Navigate to the first issue.**
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
